@@ -248,6 +248,8 @@ export default function App() {
                             author.toLowerCase().replace(/\s/g, '-'),
                         },
                       },
+                      SignIn: "sign-in",
+                      SignUp: "sign-up",
                       Albums: 'music',
                       Chat: 'chat',
                       Contacts: 'people',
