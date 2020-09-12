@@ -58,7 +58,7 @@
     "jest": "^26.0.1",
     "jest-dev-server": "^4.4.0",
     "mock-require-assets": "^0.0.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.4",
     "playwright": "^0.14.0",
     "serve": "^11.3.2",
